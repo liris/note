@@ -46,30 +46,26 @@ FailBank は、ユーザーの個人情報を収集しません。
 
 詳細は以下をご確認ください：
 
-- [プライバシーポリシー](https://failbankserver.onrender.com/privacy)
+- [プライバシーポリシー](https://github.com/liris/note/blob/main/FailBankrivacy.md)
 
 ---
 
-## 🧑‍💻 開発者情報
+🧩 サポート
 
-**開発者**：FailBank Project  
-**サポートメール**：support@failbank.app  
-（※ 任意のメールアドレスに変更してください）
+バグ報告・改善提案は Issues からお願いします。
 
----
+サポートページ: https://github.com/liris/note
+© 著作権
 
-## 📨 お問い合わせ
+© 2026 liris
 
-アプリに関するご質問・不具合報告は、以下のメールアドレスまでご連絡ください：
-
-**support@failbank.app**
 
 ---
 
 ## 📝 バージョン情報
 
 - バージョン：1.0.0  
-- 初回リリース日：2026-XX-XX
+- 初回リリース日：2026-05-01
 
 ---
 
